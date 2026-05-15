@@ -1,4 +1,4 @@
-**Kaushalya-Karnataka**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e3748712-d03d-43a8-9779-a3b171295788" />**Kaushalya-Karnataka**
 
 Connecting Skilled Professionals with Local Opportunities
 
@@ -35,3 +35,14 @@ app/src/main/java/com/example/kaushalyakarnataka/
 <br>│   └── ServiceItem.kt     # Worker service card definitions 
 <br>└── utils/                    # Helpers 
     <br>└── ImageUtils.kt        # Scoped Storage / Local Save logic 
+
+
+⚙️ Setup and Installation
+
+**Clone the repository:**  
+git clone [INSERT_YOUR_REPOSITORY_LINK_HERE]
+
+**Add Firebase Configuration:** Place your google-services.json in the app/ directory.  
+**Dependencies:** Ensure the Coil, Firebase-Auth, and Firestore dependencies are synced via build.gradle.  
+**Run:** Connect an Android device with USB Debugging enabled and click Run in Android Studio. 
+
