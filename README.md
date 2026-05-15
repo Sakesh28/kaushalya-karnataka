@@ -64,7 +64,7 @@ git clone [INSERT_YOUR_REPOSITORY_LINK_HERE]
 <img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/d82a4413-beb6-4cd4-8928-7c066cd0cdde" />
 <img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/daa562fc-1b7b-4816-a029-c465c3fc15fc" />
 <img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/bb447e61-6764-4279-a81d-2ae8308119fb" />
-<img width="751" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb626229-f62d-42c9-97d0-8b504612878e" />
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/fb626229-f62d-42c9-97d0-8b504612878e" />
 
 
 
