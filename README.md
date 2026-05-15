@@ -31,7 +31,7 @@ app/src/main/java/com/example/kaushalyakarnataka/
 <br>├── ui/                    # UI Components 
 <br>│   ├── Screens.kt         # Registration, Dashboards, and Lists 
 <br>│   └── components/        # Reusable Cards and Buttons 
-<br>├── data/                  # Data Models 
+<br>├── data/                    # Data Models 
 <br>│   └── ServiceItem.kt     # Worker service card definitions 
-<br>└── utils/                 # Helpers 
-    <br>└── ImageUtils.kt      # Scoped Storage / Local Save logic 
+<br>└── utils/                    # Helpers 
+    <br>└── ImageUtils.kt        # Scoped Storage / Local Save logic 
