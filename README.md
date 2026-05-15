@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e3748712-d03d-43a8-9779-a3b171295788" />**Kaushalya-Karnataka**
+**Kaushalya-Karnataka**
 
 Connecting Skilled Professionals with Local Opportunities
 
@@ -45,4 +45,35 @@ git clone [INSERT_YOUR_REPOSITORY_LINK_HERE]
 **Add Firebase Configuration:** Place your google-services.json in the app/ directory.  
 **Dependencies:** Ensure the Coil, Firebase-Auth, and Firestore dependencies are synced via build.gradle.  
 **Run:** Connect an Android device with USB Debugging enabled and click Run in Android Studio. 
+
+<img width="261" height="494" alt="image" src="https://github.com/user-attachments/assets/ba0a5469-01f1-4284-861b-d13ae9210441" />  
+
+**UsersDashboard**
+
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/4b7d4a17-3630-44c6-8f16-1944a833d35b" />
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/1b5b4344-f38a-4bf2-982f-8e444144a18c" />
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/d1fc1e39-bdf7-48f0-9878-eed5aa9e36fa" />
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/a5773adb-7445-4d39-8936-e110e1a781f8" />
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/e79d1b38-603b-4da2-b917-b0d5a3fdcb8e" />
+
+
+
+**Workers Dashboard**
+
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/e806e376-302d-4b6c-a18b-31327def426c" />
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/d82a4413-beb6-4cd4-8928-7c066cd0cdde" />
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/daa562fc-1b7b-4816-a029-c465c3fc15fc" />
+<img width="320" height="751" alt="image" src="https://github.com/user-attachments/assets/bb447e61-6764-4279-a81d-2ae8308119fb" />
+<img width="751" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb626229-f62d-42c9-97d0-8b504612878e" />
+
+
+
+
+
+
+
+
+
+
+
 
