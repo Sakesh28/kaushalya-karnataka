@@ -6,6 +6,7 @@ Connecting Skilled Professionals with Local Opportunities
 
 Kaushalya-Karnataka is a mobile marketplace designed to bridge the gap between local skilled laborers (electricians, plumbers, painters) and residents in Karnataka. The app provides a seamless interface for workers to showcase their service cards and portfolios while allowing users to discover and contact verified professionals via WhatsApp integration
 
+
 🚀 **Key Features**
 
 **Role-Based Access Control:** Separate, secure dashboards for "Users" and "Workers" managed via Firebase Firestore.  
@@ -21,3 +22,16 @@ Kaushalya-Karnataka is a mobile marketplace designed to bridge the gap between l
 **Backend/Database:** Firebase Firestore & Firebase Authentication   
 **Image Loading:** Coil Library (for local scoped storage rendering)   
 **State Management:** Compose State (mutableStateOf/remember)
+
+
+📁 **Project Structure**
+
+app/src/main/java/com/example/kaushalyakarnataka/
+├── MainActivity.kt        # Main Navigation logic and Auth Check
+├── ui/                    # UI Components
+│   ├── Screens.kt         # Registration, Dashboards, and Lists
+│   └── components/        # Reusable Cards and Buttons
+├── data/                  # Data Models
+│   └── ServiceItem.kt     # Worker service card definitions
+└── utils/                 # Helpers
+    └── ImageUtils.kt      # Scoped Storage / Local Save logic
