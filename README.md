@@ -27,11 +27,11 @@ Kaushalya-Karnataka is a mobile marketplace designed to bridge the gap between l
 📁 **Project Structure**
 
 app/src/main/java/com/example/kaushalyakarnataka/
-├── MainActivity.kt        # Main Navigation logic and Auth Check
-├── ui/                    # UI Components
-│   ├── Screens.kt         # Registration, Dashboards, and Lists
-│   └── components/        # Reusable Cards and Buttons
-├── data/                  # Data Models
-│   └── ServiceItem.kt     # Worker service card definitions
-└── utils/                 # Helpers
-    └── ImageUtils.kt      # Scoped Storage / Local Save logic
+<br>├── MainActivity.kt        # Main Navigation logic and Auth Check
+<br>├── ui/                    # UI Components 
+<br>│   ├── Screens.kt         # Registration, Dashboards, and Lists 
+<br>│   └── components/        # Reusable Cards and Buttons 
+<br>├── data/                  # Data Models 
+<br>│   └── ServiceItem.kt     # Worker service card definitions 
+<br>└── utils/                 # Helpers 
+    <br>└── ImageUtils.kt      # Scoped Storage / Local Save logic 
