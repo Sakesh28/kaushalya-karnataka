@@ -13,3 +13,11 @@ Kaushalya-Karnataka is a mobile marketplace designed to bridge the gap between l
 **Local Portfolio Management:** Implementation of Scoped Storage to save and display high-resolution work images directly from the device's internal memory.  
 **Direct Communication:** Instant "Contact on WhatsApp" feature with pre-filled messaging for efficient hiring.  
 **Dynamic Discovery:** Service categories (Electrician, Plumber, etc.) with real-time filtration of available professionals. 
+
+
+🛠 **Tech Stack**
+
+**Frontend:** Jetpack Compose (Kotlin)  
+**Backend/Database:** Firebase Firestore & Firebase Authentication   
+**Image Loading:** Coil Library (for local scoped storage rendering)   
+**State Management:** Compose State (mutableStateOf/remember)
